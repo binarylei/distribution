@@ -1,4 +1,4 @@
-package com.github.binarylei.springcloud.eureka.server;
+package binarylei.springcloud.eureka.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

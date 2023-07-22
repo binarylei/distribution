@@ -17,7 +17,7 @@
     </modules>
 
     <properties>
-        <spring.version>4.2.4.RELEASE</spring.version>
+        <spring.version>5.2.24.RELEASE</spring.version>
         <activemq.version>5.15.3</activemq.version>
         <junit.version>4.10</junit.version>
         <dubbo.version>2.6.0</dubbo.version>
